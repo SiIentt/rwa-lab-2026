@@ -222,3 +222,19 @@ What the zip must contain:
 
 The discussion prompts live in `STUDENT-QUESTIONS.md` — one per plank, no standard answers, and the
 real point of this lab.
+
+
+# Architecture
+
+![architecture](images/architecture.png)
+
+# Tier 2:
+| Contract | Address | Link |
+|---|---|---|
+| MockUSDC | `0x7F87B9f61cbFa7f85dB01716599387C5a8386E27` | [Etherscan](https://sepolia.etherscan.io/address/0x7F87B9f61cbFa7f85dB01716599387C5a8386E27#code) |
+| ComplianceRegistry | `0x93C8693A531C58a3Af22Bfc7dAbd99F94002D49b` | [Etherscan](https://sepolia.etherscan.io/address/0x93C8693A531C58a3Af22Bfc7dAbd99F94002D49b#code) |
+| MockPriceFeed | `0x0a1d7DEb97f0093a6BE9858F9e919742D53a1EFD` | [Etherscan](https://sepolia.etherscan.io/address/0x0a1d7DEb97f0093a6BE9858F9e919742D53a1EFD#code) |
+| TBillToken | `0xf0f6C1EC16c1CBebD93ed331374bA67AdbA03199` | [Etherscan](https://sepolia.etherscan.io/address/0xf0f6C1EC16c1CBebD93ed331374bA67AdbA03199#code) |
+| MockTBillCustodian | `0xAE9Bb8d0B11D8bAC75a9FFFAE288849992d68c38` | [Etherscan](https://sepolia.etherscan.io/address/0xAE9Bb8d0B11D8bAC75a9FFFAE288849992d68c38#code) |
+| TBillVault | `0x7568bf892d79c35Ea3754fc179AB8B5Fc485C621` | [Etherscan](https://sepolia.etherscan.io/address/0x7568bf892d79c35Ea3754fc179AB8B5Fc485C621#code) |
+| RedemptionQueue | `0xC58368d2Ee597e30117E33772bE0343f90f4F3d1` | [Etherscan](https://sepolia.etherscan.io/address/0xC58368d2Ee597e30117E33772bE0343f90f4F3d1#code) |
