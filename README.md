@@ -224,8 +224,10 @@ The discussion prompts live in `STUDENT-QUESTIONS.md` — one per plank, no stan
 real point of this lab.
 
 
-# Architecture
+# github Link:
+[github](https://github.com/SiIentt/rwa-lab-2026)
 
+# Architecture:
 ![architecture](images/architecture.png)
 
 # Tier 2:
