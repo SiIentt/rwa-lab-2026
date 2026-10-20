@@ -224,13 +224,13 @@ The discussion prompts live in `STUDENT-QUESTIONS.md` — one per plank, no stan
 real point of this lab.
 
 
-# github Link:
+## github Link:
 [github](https://github.com/SiIentt/rwa-lab-2026)
 
-# Architecture:
+## Architecture Diagram:
 ![architecture](images/architecture.png)
 
-# Tier 2:
+## Deployment (Sepolia)
 | Contract | Address | Link |
 |---|---|---|
 | MockUSDC | `0x7F87B9f61cbFa7f85dB01716599387C5a8386E27` | [Etherscan](https://sepolia.etherscan.io/address/0x7F87B9f61cbFa7f85dB01716599387C5a8386E27#code) |
